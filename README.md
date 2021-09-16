@@ -7,8 +7,8 @@ She was previously a university tutor teaching Processing.js and Java fundamenta
 In her spare time she can be caught reading, sudoku-ing, cooking or writing tech content.
 
 - 😄 Pronouns: she/her.  
-- 🌱 I’m currently working on new blog posts & small pen-testing scripts.  
-- 💬 Ask me about pen-testing, teaching and presenting.  
+- 🌱 Currently working on: new blog posts & small pen-testing scripts.  
+- 💬 Ask me about: pen-testing, teaching and presenting.  
 <!-- - ⚡ Fun fact: -->
 
 ## 📫 Connect with me
