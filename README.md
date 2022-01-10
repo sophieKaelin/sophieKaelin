@@ -2,13 +2,13 @@
 
 #### ✨ _Welcome to Sophie's Github_ ✨
 
-Sophie is a penetration tester who enjoys casual programming.  
+Sophie is a security engineer who enjoys casual programming.  
 She was previously a university tutor teaching Processing.js and Java fundamentals.  
 In her spare time she can be caught reading, sudoku-ing, cooking or writing tech content.
 
 - 😄 Pronouns: she/her.  
-- 🌱 Currently working on: new blog posts & small pen-testing scripts.  
-- 💬 Ask me about: pen-testing, teaching and presenting.  
+- 🌱 Currently working on: new blog posts & graping web page for reading progress.  
+- 💬 Ask me about: security, teaching and presenting.  
 <!-- - ⚡ Fun fact: -->
 
 ## 📫 Connect with me
